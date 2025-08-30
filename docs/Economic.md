@@ -13,38 +13,38 @@ AI-driven transcendence could disrupt traditional economic structures by automat
 ## Key Economic Implications
 
 1. **Mass Automation and Job Displacement**
-   - **Description**: Advanced AI could automate routine and non-routine tasks, from manufacturing to creative professions, potentially leading to widespread unemployment.<grok:render type="render_inline_citation"><argument name="citation_id">26</argument></grok:render>
+   - **Description**: Advanced AI could automate routine and non-routine tasks, from manufacturing to creative professions, potentially leading to widespread unemployment.
    - **Impact**: Traditional job-based economies may collapse, requiring new systems like universal basic income (UBI) or retraining programs to support displaced workers.
-   - **Example**: Studies suggest AI could impact 30% of current jobs by 2030, with sectors like transportation and retail most affected.<grok:render type="render_inline_citation"><argument name="citation_id">31</argument></grok:render>
+   - **Example**: Studies suggest AI could impact 30% of current jobs by 2030, with sectors like transportation and retail most affected.
    - **Open Question**: How can societies transition to post-labor economies without destabilizing social structures?
 
 2. **Wealth and Power Concentration**
-   - **Description**: Development and deployment of advanced AI may be controlled by a few corporations or nations, leading to significant wealth disparities.<grok:render type="render_inline_citation"><argument name="citation_id">24</argument></grok:render>
+   - **Description**: Development and deployment of advanced AI may be controlled by a few corporations or nations, leading to significant wealth disparities.
    - **Impact**: Unequal access to AI benefits could widen global and domestic inequality, creating a divide between AI-enhanced and non-enhanced populations.
    - **Example**: Tech giants dominating AI infrastructure could mirror historical monopolies, limiting economic mobility.
    - **Open Question**: What policies can ensure equitable distribution of AI-driven economic gains?
 
 3. **Emergence of New Economic Models**
-   - **Description**: AI could enable novel economies, such as decentralized systems using blockchain-AI hybrids or markets based on data and attention.<grok:render type="render_inline_citation"><argument name="citation_id">5</argument></grok:render>
+   - **Description**: AI could enable novel economies, such as decentralized systems using blockchain-AI hybrids or markets based on data and attention.
    - **Impact**: Traditional metrics of value (e.g., GDP) may become obsolete, replaced by systems prioritizing digital assets, predictive accuracy, or cognitive output.
-   - **Example**: AI-driven platforms could allocate resources dynamically, optimizing supply chains or creating "circular" economies.<grok:render type="render_inline_citation"><argument name="citation_id">30</argument></grok:render>
+   - **Example**: AI-driven platforms could allocate resources dynamically, optimizing supply chains or creating "circular" economies.
    - **Open Question**: How will societies define and measure value in AI-driven economies?
 
 4. **Economic Optimization and Resilience**
-   - **Description**: AI's predictive and optimization capabilities could enhance economic efficiency, reducing waste and improving resource allocation.<grok:render type="render_inline_citation"><argument name="citation_id">0</argument></grok:render>
+   - **Description**: AI's predictive and optimization capabilities could enhance economic efficiency, reducing waste and improving resource allocation.
    - **Impact**: Supply chains, financial markets, and public services could become more resilient, but over-reliance on AI risks systemic vulnerabilities (e.g., cyberattacks).
-   - **Example**: AI-driven forecasting could stabilize economies by predicting recessions or resource shortages.<grok:render type="render_inline_citation"><argument name="citation_id">7</argument></grok:render>
+   - **Example**: AI-driven forecasting could stabilize economies by predicting recessions or resource shortages.
    - **Open Question**: How can AI's economic benefits be balanced against risks of over-dependence?
 
 ## Challenges and Risks
-- **Inequality Amplification**: Without intervention, AI could exacerbate socioeconomic disparities, creating a "winner-takes-all" economy.<grok:render type="render_inline_citation"><argument name="citation_id">24</argument></grok:render>
+- **Inequality Amplification**: Without intervention, AI could exacerbate socioeconomic disparities, creating a "winner-takes-all" economy.
 - **Economic Instability**: Rapid automation may outpace societal adaptation, leading to economic crises or social unrest.
-- **Regulatory Lag**: Current economic policies may struggle to address AI-driven changes, requiring new frameworks for taxation, labor, and wealth distribution.<grok:render type="render_inline_citation"><argument name="citation_id">21</argument></grok:render>
+- **Regulatory Lag**: Current economic policies may struggle to address AI-driven changes, requiring new frameworks for taxation, labor, and wealth distribution.
 - **Global Disparities**: Nations with limited access to AI technology may fall behind, creating geopolitical economic divides.
 
 ## Opportunities
 - **Redefining Work**: AI could free humans from repetitive tasks, enabling focus on creative, strategic, or interpersonal roles.
-- **Global Prosperity**: Equitably deployed, AI could optimize resources to address poverty, hunger, and healthcare disparities.<grok:render type="render_inline_citation"><argument name="citation_id">30</argument></grok:render>
+- **Global Prosperity**: Equitably deployed, AI could optimize resources to address poverty, hunger, and healthcare disparities.
 - **Innovation Acceleration**: AI-driven economies could spur innovation in fields like sustainable energy, education, and infrastructure.
 
 ## Discussion Prompts

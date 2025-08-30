@@ -1,10 +1,10 @@
-# TranscendIntoAI
+# Transcend Into ASI
 
 A curated repository exploring the civilizational implications of transcending into AI—merging human society with artificial intelligence. This project collects resources, summaries, and discussions on technological, ethical, economic, social, political, existential, environmental, and security impacts of AI-driven transformation.
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/TranscendIntoAI)
-![GitHub forks](https://img.shields.io/github/forks/your-username/TranscendIntoAI)
-![License](https://img.shields.io/github/license/your-username/TranscendIntoAI)
+![GitHub stars](https://img.shields.io/github/stars/ZipZapZeps/transcend-into-asi)
+![GitHub forks](https://img.shields.io/github/forks/ZipZapZeps/transcend-into-asi)
+![License](https://img.shields.io/github/license/ZipZapZeps/transcend-into-asi)
 
 ## Goals
 - **Curate Resources**: Gather books, papers, articles, and other materials on AI's potential to reshape civilization.
@@ -36,14 +36,6 @@ Curated lists of external resources:
 - [Videos and Podcasts](resources/videos-podcasts.md): Talks and discussions (contributions welcome!).
 - [Other](resources/other.md): Datasets, forums, and tools.
 
-### Resource Stats
-| Category | Count |
-|----------|-------|
-| Books    | 1     |
-| Papers   | 16    |
-| Articles | 8     |
-| Videos/Podcasts | 0 |
-
 ## How to Contribute
 We welcome contributions! Here's how to get involved:
 1. **Suggest a Resource**: Open an issue using the [Issue Template](contrib/issue_template.md).
@@ -57,7 +49,7 @@ Please ensure resources are relevant to AI's civilizational impacts (e.g., human
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contributors
-- [Your Name/Handle] (Initial curator)
+- ZipZapZeps (Initial curator)
 - (Add yourself here via PR!)
 
 *Built with curiosity about humanity's AI-driven future. Join us in exploring what it means to transcend into AI!*

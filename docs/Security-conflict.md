@@ -16,14 +16,14 @@ AI's transformative potential could amplify both cooperative and adversarial dyn
      - Destabilization of global power dynamics as AI leaders gain disproportionate influence.
      - Resource diversion from societal benefits (e.g., healthcare, education) to military AI.
      - Potential for miscalculation if AI systems act unpredictably in high-stakes scenarios.
-   - **Example**: Reports suggest nations are investing heavily in AI for defense, with concerns about an "AI arms race" leading to unchecked autonomous systems.<grok:render type="render_inline_citation"><argument name="citation_id">21</argument></grok:render>
+   - **Example**: Reports suggest nations are investing heavily in AI for defense, with concerns about an "AI arms race" leading to unchecked autonomous systems.
 
 2. **Autonomous Weapons**
    - **Description**: AI-powered lethal autonomous weapons could make decisions without human oversight, raising questions about accountability and ethics.
    - **Risks**:
      - Escalation of conflicts due to rapid, automated responses lacking human judgment.
      - Proliferation to non-state actors (e.g., terrorist groups), increasing asymmetric threats.
-     - Ethical dilemmas: Who is responsible for autonomous weapon actions?<grok:render type="render_inline_citation"><argument name="citation_id">12</argument></grok:render>
+     - Ethical dilemmas: Who is responsible for autonomous weapon actions?
    - **Example**: Debates around banning LAWs highlight fears of AI-driven warfare outpacing regulatory frameworks.
 
 3. **Cybersecurity Risks**
@@ -32,15 +32,15 @@ AI's transformative potential could amplify both cooperative and adversarial dyn
      - Attacks on critical infrastructure (e.g., power grids, financial systems) could cause widespread disruption.
      - Manipulation of public opinion through AI-generated misinformation, eroding societal trust.
      - Vulnerability of AI systems themselves to adversarial attacks (e.g., data poisoning).
-   - **Example**: Generative AI's ability to create convincing deepfakes poses risks for propaganda and fraud.<grok:render type="render_inline_citation"><argument name="citation_id">5</argument></grok:render>
+   - **Example**: Generative AI's ability to create convincing deepfakes poses risks for propaganda and fraud.
 
 4. **Global Stability and Conflict**
    - **Description**: Uneven access to AI technologies could widen gaps between nations or regions, leading to economic, political, or military imbalances.
    - **Risks**:
      - Increased migration or unrest as AI-disadvantaged regions face economic decline.
      - Proxy conflicts driven by AI-powered actors supplying technology to smaller states or groups.
-     - Potential for AI to exacerbate resource conflicts (e.g., energy demands for AI computation).<grok:render type="render_inline_citation"><argument name="citation_id">24</argument></grok:render>
-   - **Example**: Studies warn that AI could amplify global inequalities, potentially fueling conflict.<grok:render type="render_inline_citation"><argument name="citation_id">30</argument></grok:render>
+     - Potential for AI to exacerbate resource conflicts (e.g., energy demands for AI computation).
+   - **Example**: Studies warn that AI could amplify global inequalities, potentially fueling conflict.
 
 ## Key Questions for Exploration
 - How can international agreements mitigate the risks of an AI arms race?
