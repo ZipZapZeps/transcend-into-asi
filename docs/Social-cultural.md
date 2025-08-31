@@ -53,6 +53,6 @@ The integration of AI into human society—through augmentation, pervasive autom
 - Share examples of how AI is already influencing cultural production (e.g., AI art, music, or social media algorithms).
 - Propose policies to mitigate AI-driven social stratification or privacy loss.
 - Discuss how different cultures might approach AI integration differently (e.g., collectivist vs. individualist societies).
-- Contribute additional resources or case studies on AI's social/cultural impacts via [GitHub Issues](../contrib/issue_template.md).
+- Contribute additional resources or case studies on AI's social/cultural impacts via [GitHub Issues](../contrib/Issue_template.md).
 
 *Contributions welcome! Help us expand this exploration of AI's social and cultural implications.*

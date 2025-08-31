@@ -54,6 +54,6 @@ AI-driven transcendence could disrupt traditional economic structures by automat
 - What role should international cooperation play in mitigating global economic disparities caused by AI?
 
 ## Relevant Resources
-- See [resources/papers.md](../resources/papers.md) for papers like "The Impact of Generative Artificial Intelligence on Socioeconomic Inequalities and Policy Responses" and "The Evidence So Far: What Research Reveals About AI's Real Impact on Jobs and Society."
-- See [resources/articles.md](../resources/articles.md) for articles like "AI and Society: Implications for Global Equality and Quality of Life."
-- Contributions welcome! Add new resources via [GitHub Issues](../contrib/issue_template.md).
+- See [resources/papers.md](../resources/Papers.md) for papers like "The Impact of Generative Artificial Intelligence on Socioeconomic Inequalities and Policy Responses" and "The Evidence So Far: What Research Reveals About AI's Real Impact on Jobs and Society."
+- See [resources/articles.md](../resources/Articles.md) for articles like "AI and Society: Implications for Global Equality and Quality of Life."
+- Contributions welcome! Add new resources via [GitHub Issues](../contrib/Issue_template.md).

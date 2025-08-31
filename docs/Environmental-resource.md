@@ -34,12 +34,12 @@ The integration of AI into civilization—whether through human-AI augmentation,
 
 ## Relevant Resources
 - **Paper**: *The Impact of Artificial Intelligence on Human Society and Bioethics*  
-  - **Link**: [TBD, see resources/papers.md]  
+  - **Link**: [TBD, see resources/Papers.md]  
   - **Summary**: Discusses AI's industrial and environmental impacts, including energy use and potential for sustainable innovation.  
   - **Relevance**: Highlights trade-offs between AI's benefits and environmental costs.  
   - **Citation**: 
 - **Article**: *Generative Artificial Intelligence: Toward a New Civilization?*  
-  - **Link**: [TBD, see resources/articles.md]  
+  - **Link**: [TBD, see resources/Articles.md]  
   - **Summary**: Explores AI's role in optimizing resource use and addressing climate challenges.  
   - **Relevance**: Discusses AI's potential to drive sustainable systems.  
   - **Citation**: 

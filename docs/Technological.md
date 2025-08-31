@@ -19,7 +19,7 @@ The integration of AI into human cognition and societal systems could redefine t
 - **Artificial Intelligence (AI) and Civilization Evolution: Technology, Strategy, and Societal Transformation**  
   Discusses AI's role in sustainable global progress beyond commercial applications.  
   *Relevance*: Highlights AI's transformative potential in societal systems.  
-  [Link to resource](resources/papers.md#artificial-intelligence-ai-and-civilization-evolution)
+  [Link to resource](resources/Papers.md#artificial-intelligence-ai-and-civilization-evolution)
 - **Humanity's Capability of Transcendence through Artificial Intelligence**  
   Examines arguments for and against AI enabling human transcendence, including BCIs and superintelligence.  
   *Relevance*: Directly addresses technological augmentation and risks.  
@@ -27,23 +27,23 @@ The integration of AI into human cognition and societal systems could redefine t
 - **Generative Artificial Intelligence: Toward a New Civilization?**  
   Explores GenAI's value chain and its potential to reshape technological infrastructure.  
   *Relevance*: Focuses on AI's role in driving systemic technological change.  
-  [Link to resource](resources/articles.md#generative-artificial-intelligence-toward-a-new-civilization)
+  [Link to resource](resources/Articles.md#generative-artificial-intelligence-toward-a-new-civilization)
 - **The Butterfly Effect of Technology: How Various Factors Accelerate or Hinder the Technological Singularity**  
   Analyzes factors influencing the pace of AI-driven technological leaps.  
   *Relevance*: Discusses conditions for achieving superintelligence or singularity.  
-  [Link to resource](resources/papers.md#the-butterfly-effect-of-technology)
+  [Link to resource](resources/Papers.md#the-butterfly-effect-of-technology)
 - **The Transformative Potential of Artificial Intelligence**  
   Outlines levels of societal change driven by AI advancements.  
   *Relevance*: Broad overview of technological impacts across domains.  
-  [Link to resource](resources/papers.md#the-transformative-potential-of-artificial-intelligence)
+  [Link to resource](resources/Papers.md#the-transformative-potential-of-artificial-intelligence)
 - **Generative Artificial Intelligence: Evolving Technology, Growing Implications**  
   Details trends in AI development and their technological implications.  
   *Relevance*: Focuses on emerging AI capabilities like generative models.  
-  [Link to resource](resources/articles.md#generative-artificial-intelligence-evolving-technology-growing-implications)
+  [Link to resource](resources/Articles.md#generative-artificial-intelligence-evolving-technology-growing-implications)
 - **Will the Technological Singularity Come Soon? Modeling the Probability of AI Development**  
   Uses logistic growth models to predict AI progress toward superintelligence.  
   *Relevance*: Quantifies timelines for transformative AI technologies.  
-  [Link to resource](resources/papers.md#will-the-technological-singularity-come-soon)
+  [Link to resource](resources/Papers.md#will-the-technological-singularity-come-soon)
 
 ## Discussion Prompts
 - What safeguards are needed to ensure BCIs enhance rather than undermine human agency?

@@ -64,8 +64,8 @@ Below are curated resources related to security and conflict implications of AI.
    - *Relevance*: Connects AI adoption to geopolitical stability.  
 
 ## Contribute to This Document
-- Suggest additional resources via GitHub Issues (see [Issue Template](../contrib/issue_template.md)).
-- Propose edits or new sections via Pull Requests (see [PR Template](../contrib/pr_template.md)).
+- Suggest additional resources via GitHub Issues (see [Issue Template](../contrib/Issue_template.md)).
+- Propose edits or new sections via Pull Requests (see [PR Template](../contrib/PR_template.md)).
 - Share ideas for case studies (e.g., real-world examples of AI in military or cybersecurity applications).
 
 *Last updated: August 30, 2025*
