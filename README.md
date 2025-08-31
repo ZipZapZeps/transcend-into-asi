@@ -19,27 +19,27 @@ A curated repository exploring the civilizational implications of transcending i
 
 ## Docs
 In-depth explorations of AI's civilizational impacts, organized by category:
-- [Technological Transformations](docs/technological.md): Human augmentation, automation, superintelligence.
-- [Economic Implications](docs/economic.md): Job displacement, wealth concentration, new economies.
-- [Social and Cultural Shifts](docs/social-cultural.md): Identity, privacy, cultural changes.
-- [Ethical and Philosophical Challenges](docs/ethical-philosophical.md): Moral agency, value alignment.
-- [Political and Governance Issues](docs/political-governance.md): Power dynamics, surveillance, regulation.
-- [Existential and Long-Term Impacts](docs/existential-longterm.md): Singularity, post-human future.
-- [Environmental and Resource Impacts](docs/environmental-resource.md): Sustainability, resource demands.
-- [Security and Conflict](docs/security-conflict.md): AI arms races, cybersecurity risks.
+- [Technological Transformations](docs/Technological.md): Human augmentation, automation, superintelligence.
+- [Economic Implications](docs/Economic.md): Job displacement, wealth concentration, new economies.
+- [Social and Cultural Shifts](docs/Social-cultural.md): Identity, privacy, cultural changes.
+- [Ethical and Philosophical Challenges](docs/Ethical-philosophical.md): Moral agency, value alignment.
+- [Political and Governance Issues](docs/Political-governance.md): Power dynamics, surveillance, regulation.
+- [Existential and Long-Term Impacts](docs/Existential-longterm.md): Singularity, post-human future.
+- [Environmental and Resource Impacts](docs/Environmental-resource.md): Sustainability, resource demands.
+- [Security and Conflict](docs/Security-conflict.md): AI arms races, cybersecurity risks.
 
 ## Resources
 Curated lists of external resources:
-- [Books](resources/books.md): Key reads on AI and societal transformation.
-- [Papers](resources/papers.md): Academic research on AI's implications.
-- [Articles](resources/articles.md): Reports, blog posts, and web content.
-- [Videos and Podcasts](resources/videos-podcasts.md): Talks and discussions (contributions welcome!).
-- [Other](resources/other.md): Datasets, forums, and tools.
+- [Books](resources/Books.md): Key reads on AI and societal transformation.
+- [Papers](resources/Papers.md): Academic research on AI's implications.
+- [Articles](resources/Articles.md): Reports, blog posts, and web content.
+- [Videos and Podcasts](resources/Videos-podcasts.md): Talks and discussions (contributions welcome!).
+- [Other](resources/Other.md): Datasets, forums, and tools.
 
 ## How to Contribute
 We welcome contributions! Here's how to get involved:
-1. **Suggest a Resource**: Open an issue using the [Issue Template](contrib/issue_template.md).
-2. **Add Content**: Submit a Pull Request following the [PR Template](contrib/pr_template.md).
+1. **Suggest a Resource**: Open an issue using the [Issue Template](contrib/Issue_template.md).
+2. **Add Content**: Submit a Pull Request following the [PR Template](contrib/PR_template.md).
 3. **Improve Docs**: Expand or refine summaries in the `docs/` folder.
 4. **Star the Repo**: Help spread the word!
 
