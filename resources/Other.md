@@ -1,6 +1,6 @@
 # Other Resources
 
-This file collects miscellaneous resources relevant to the civilizational implications of transcending into AI, including datasets, forums, tools, or other materials that don't fit neatly into books, papers, articles, or videos/podcasts. Contributions are welcome—please follow the [contribution guidelines](../contrib/issue_template.md) to suggest additions.
+This file collects miscellaneous resources relevant to the civilizational implications of transcending into AI, including datasets, forums, tools, or other materials that don't fit neatly into books, papers, articles, or videos/podcasts. Contributions are welcome—please follow the [contribution guidelines](../contrib/Issue_template.md) to suggest additions.
 
 ## Current Resources
 *No resources have been added to this category yet.*
@@ -13,8 +13,8 @@ This file collects miscellaneous resources relevant to the civilizational implic
 - **Interactive Content**: Simulations, visualizations, or games exploring AI transcendence scenarios.
 
 ### How to Add Resources
-1. Open an issue with the [Issue Template](../contrib/issue_template.md), specifying the resource title, link, summary, and relevant implication categories (e.g., technological, ethical).
-2. Submit a Pull Request using the [PR Template](../contrib/pr_template.md) to update this file.
+1. Open an issue with the [Issue Template](../contrib/Issue_template.md), specifying the resource title, link, summary, and relevant implication categories (e.g., technological, ethical).
+2. Submit a Pull Request using the [PR Template](../contrib/PR_template.md) to update this file.
 3. Format entries as follows:
 
 **Example Entry**  
