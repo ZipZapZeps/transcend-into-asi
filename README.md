@@ -35,6 +35,7 @@ Curated lists of external resources:
 - [Books](resources/Books.md): Key reads on AI and societal transformation.
 - [Papers](resources/Papers.md): Academic research on AI's implications.
 - [Articles](resources/Articles.md): Reports, blog posts, and web content.
+- [Movies](resources/Movies.md): Movies.
 - [Videos and Podcasts](resources/Videos-podcasts.md): Talks and discussions (contributions welcome!).
 - [Other](resources/Other.md): Datasets, forums, and tools.
 
