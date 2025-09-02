@@ -19,6 +19,7 @@ A curated repository exploring the civilizational implications of transcending i
 
 ## Docs
 In-depth explorations of AI's civilizational impacts, organized by category:
+- [Definitions](docs/Definitions.md): Key terms related to transcending into AI
 - [Technological Transformations](docs/Technological.md): Human augmentation, automation, superintelligence.
 - [Economic Implications](docs/Economic.md): Job displacement, wealth concentration, new economies.
 - [Social and Cultural Shifts](docs/Social-cultural.md): Identity, privacy, cultural changes.
@@ -30,6 +31,7 @@ In-depth explorations of AI's civilizational impacts, organized by category:
 
 ## Resources
 Curated lists of external resources:
+- [Resources](resources/Resources.md): Consolidates the list below into a single list.
 - [Books](resources/Books.md): Key reads on AI and societal transformation.
 - [Papers](resources/Papers.md): Academic research on AI's implications.
 - [Articles](resources/Articles.md): Reports, blog posts, and web content.
