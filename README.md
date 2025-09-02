@@ -1,4 +1,4 @@
-# Transcend Into ASI
+# Transcend Into Artifical Super Intelligence
 
 A curated repository exploring the civilizational implications of transcending into AI—merging human society with artificial intelligence. This project collects resources, summaries, and discussions on technological, ethical, economic, social, political, existential, environmental, and security impacts of AI-driven transformation.
 
