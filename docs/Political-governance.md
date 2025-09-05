@@ -42,11 +42,11 @@ As AI becomes a central force in societal transformation, it could redefine poli
    - *Discussion Prompt*: How can global AI policies ensure equitable benefits across nations?
 
 ## Curated Resources
-- **Paper**: *AI Singularity: Navigating Implications and Framing Strategic Recommendations* (PDF) – Offers a roadmap for handling geopolitical and governance complexities of an AI singularity.
-- **Paper**: *Societal Impacts of Artificial Intelligence: Ethical, Legal, and Governance Perspectives* – Examines regulatory needs for AI’s societal integration.
-- **Article**: *Artificial Intelligence and the Past, Present, and Future of Democracy* – Analyzes AI’s impact on democratic systems, including surveillance risks.
-- **Paper**: *Navigating Artificial General Intelligence Development* – Discusses aligning AGI with societal and governance needs.
-- **Article**: *AI and Society: Implications for Global Equality and Quality of Life* – Explores AI’s potential to reshape global equity.
+- [AI Singularity: Navigating Implications and Framing Strategic Recommendations](https://dco.org/ai-singularity-navigating-implications-and-framing-strategic-recommendations/)
+- [Societal Impacts of Artificial Intelligence: Ethical, Legal, and Governance Perspectives](https://www.sciencedirect.com/science/article/pii/S2949697724000055)
+- [Artificial Intelligence and the Past, Present, and Future of Democracy](https://www.cambridge.org/core/books/cambridge-handbook-of-responsible-artificial-intelligence/artificial-intelligence-and-the-past-present-and-future-of-democracy/B6A19E65F15179EC41AB226D24A9FC51)
+- [Navigating Artificial General Intelligence Development](https://www.nature.com/articles/s41598-025-92190-7)
+- [AI and Society: Implications for Global Equality and Quality of Life](https://www.spglobal.com/en/research-insights/special-reports/look-forward/ai-and-society)
 
 ## Contribute
 Help expand this section! Suggest additional resources, case studies, or governance models via GitHub Issues or Pull Requests. See [How to Contribute](../README.md#how-to-contribute) for details.

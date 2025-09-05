@@ -74,5 +74,4 @@ This document defines key terms related to the concept of "transcending into ASI
 
 ## Notes
 - Definitions are intentionally concise to aid quick reference. Contributors are encouraged to propose expansions or additional terms via GitHub Issues.
-- Cross-references to resources (e.g., papers, books) link to the `resources/` folder for deeper reading.
 - If a term’s source is a specific resource, it’s noted; otherwise, definitions are synthesized from general AI discourse.

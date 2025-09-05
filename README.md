@@ -1,6 +1,6 @@
 # Transcend Into Artifical Super Intelligence
 
-A curated repository exploring the civilizational implications of transcending into AI—merging human society with artificial intelligence. This project collects resources, summaries, and discussions on technological, ethical, economic, social, political, existential, environmental, and security impacts of AI-driven transformation.
+A curated repository dedicated to understanding how humanity can transcend into artificial superintelligence in ways that benefit all people. This project explores the civilizational implications of human-AI integration, collecting resources, summaries, and discussions on technological, ethical, economic, social, political, existential, environmental, and security impacts of AI-driven transformation.
 
 ![GitHub stars](https://img.shields.io/github/stars/ZipZapZeps/transcend-into-asi)
 ![GitHub forks](https://img.shields.io/github/forks/ZipZapZeps/transcend-into-asi)
@@ -28,7 +28,7 @@ In-depth explorations of AI's civilizational impacts, organized by category:
 - [Existential and Long-Term Impacts](docs/Existential-longterm.md): Singularity, post-human future.
 - [Environmental and Resource Impacts](docs/Environmental-resource.md): Sustainability, resource demands.
 - [Security and Conflict](docs/Security-conflict.md): AI arms races, cybersecurity risks.
-- [Milestones](docs/ASI_milestones): Potential Milestones, which lead civilization to artifical super Intelligence.
+- [Milestones](docs/ASI_milestones.md): Potential Milestones, which lead civilization to artifical super Intelligence.
 
 ## Resources
 Curated lists of external resources:

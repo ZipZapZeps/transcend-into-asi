@@ -37,6 +37,4 @@ This document explores the existential and long-term implications of humanity's 
 - **Interstellar Ethics**: Should AI-driven space exploration prioritize human interests or universal principles?
 
 ## Relevant Resources
-- **Papers**:
-  - *Is Artificial Intelligence the Great Filter that Makes Advanced Technical Civilizations Rare?* Explores AI as a potential existential barrier for civilizations. [See resources/Papers.md]
-  - *Humanity's Capability of Transcendence through Artificial
+- [Is Artificial Intelligence the Great Filter that Makes Advanced Technical Civilizations Rare ?](https://www.sciencedirect.com/science/article/pii/S0094576524001772)
