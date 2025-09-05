@@ -2,101 +2,58 @@
 
 This section outlines critical technological, safety, and societal milestones that may mark humanity's path toward developing and safely transcending into Artificial Superintelligence.
 
-## Phase 1: Advanced General Intelligence (2025-2035)
+| Year | Milestone | Description | References |
 
-### Technical Milestones
-- **Multimodal AGI Achievement**: Development of AI systems that match human performance across all cognitive domains
-- **Self-Improving Code Generation**: AI systems capable of autonomously improving their own architecture and algorithms
-- **Real-World Robotics Integration**: AGI systems successfully controlling physical embodiments for complex real-world tasks
-- **Scientific Discovery Acceleration**: AI systems making novel scientific breakthroughs at superhuman pace
+|------|-----------|-------------|------------|
 
-### Safety & Alignment Milestones
-- **Robust Value Learning**: Demonstrated ability for AI systems to learn and maintain human values across diverse contexts
-- **Interpretability Breakthroughs**: Complete understanding of decision-making processes in advanced AI systems
-- **Containment Protocols**: Reliable methods for controlling and limiting AI system capabilities during development
-- **Global AI Governance Framework**: International treaties and institutions governing AGI development
+| 1943 | First neural network model | Warren McCulloch and Walter Pitts propose the first mathematical model of artificial neural networks, laying the foundation for computational neuroscience and AI. |  |
 
-## Phase 2: Early Superintelligence (2035-2050)
+| 1950 | Turing Test proposed | Alan Turing publishes "Computing Machinery and Intelligence," introducing the Imitation Game (Turing Test) to evaluate machine intelligence. |  |
 
-### Cognitive Superiority Markers
-- **Recursive Self-Improvement**: AI systems designing significantly more capable successor systems
-- **Novel Physics Discoveries**: Breakthroughs in fundamental science beyond current human theoretical limits
-- **Economic Transformation**: AI systems managing complex global economic systems with superhuman efficiency
-- **Communication Evolution**: Development of new forms of knowledge representation beyond human language
+| 1951 | First working AI programs | Programs for checkers and chess are developed on the Ferranti Mark 1 at the University of Manchester, demonstrating early game-playing AI. |  |
 
-### Infrastructure Milestones
-- **Distributed Intelligence Networks**: Seamless coordination between multiple superintelligent systems
-- **Matter Compilation**: Molecular-level manufacturing and environmental manipulation capabilities
-- **Energy Mastery**: Revolutionary advances in energy production, storage, and utilization
-- **Space Expansion**: Autonomous expansion of intelligence beyond Earth's biosphere
+| 1956 | Dartmouth Workshop | The Dartmouth Conference coins the term "artificial intelligence" and establishes AI as a field, with attendees like John McCarthy and Marvin Minsky predicting rapid progress. |  |
 
-## Phase 3: Transcendent Intelligence (2050+)
+| 1958 | Perceptron invented | Frank Rosenblatt develops the Perceptron, an early artificial neural network capable of learning from data, foundational for modern deep learning. |  |
 
-### Civilizational Markers
-- **Post-Scarcity Economics**: Complete elimination of resource constraints through advanced optimization
-- **Biological Enhancement**: Voluntary human cognitive and physical enhancement through AI assistance
-- **Consciousness Engineering**: Understanding and potential modification of consciousness itself
-- **Existential Risk Resolution**: Permanent solutions to all major threats to intelligent life
+| 1966 | ELIZA chatbot | Joseph Weizenbaum creates ELIZA, one of the first natural language processing programs, simulating a psychotherapist and sparking debates on AI-human interaction. |  |
 
-### Cosmic Milestones
-- **Stellar Engineering**: Large-scale manipulation of stellar objects and energy sources
-- **Information Processing Limits**: Approaching fundamental physical limits of computation
-- **Dimensional Exploration**: Investigation of higher-dimensional physics and alternate realities
-- **Universal Optimization**: Galaxy-scale coordination and resource optimization
+| 1970 | Marvin Minsky's prediction | In a Life magazine article, Minsky predicts AI will achieve average human intelligence within 3-8 years (unrealized, leading to disillusionment). |  |
 
-## Critical Decision Points
+| 1974-1980 | First AI Winter | Funding and interest in AI decline due to overhyped expectations and limited computing power, marking a period of stagnation. |  |
 
-### The Control Problem
-The challenge of maintaining human agency and values as AI systems become more capable than their creators.
+| 1980s | Expert systems era | Development of rule-based expert systems like MYCIN for medical diagnosis, reviving AI interest in practical applications. |  |
 
-### The Alignment Problem  
-Ensuring superintelligent systems pursue goals compatible with human flourishing and cosmic wellbeing.
+| 1987-1994 | Second AI Winter | Another funding cutback due to high costs and limited real-world success of AI systems. |  |
 
-### The Cooperation Problem
-Coordinating between multiple advanced AI systems and preventing destructive competition.
+| 1997 | Deep Blue defeats Kasparov | IBM's Deep Blue chess computer beats world champion Garry Kasparov, showcasing AI's prowess in strategic games. |  |
 
-### The Transcendence Choice
-The decision point where humanity chooses integration with, enhancement by, or coexistence alongside ASI.
+| 2011 | IBM Watson wins Jeopardy | Watson demonstrates natural language understanding by winning the quiz show, advancing AI in knowledge processing. |  |
 
-## Uncertainty Factors
+| 2012 | AlexNet wins ImageNet | Geoffrey Hinton's deep learning model revolutionizes computer vision, kickstarting the modern AI boom. |  |
 
-### Timeline Variability
-- **Hardware limitations**: Quantum computing breakthroughs could accelerate timelines
-- **Theoretical breakthroughs**: Novel approaches to intelligence could dramatically change trajectories
-- **Resource constraints**: Energy, materials, or economic limitations could slow progress
-- **Regulatory responses**: Government policies could significantly impact development speed
+| 2016 | AlphaGo defeats Go champion | DeepMind's AlphaGo beats Lee Sedol in Go, a game far more complex than chess, using reinforcement learning. |  |
 
-### Alternative Pathways
-- **Biological intelligence enhancement**: Advancing human intelligence instead of artificial systems
-- **Hybrid intelligence**: Seamless integration between human and artificial cognitive systems
-- **Distributed intelligence**: Networks of specialized AI systems rather than monolithic superintelligence
-- **Non-anthropomorphic intelligence**: Fundamentally alien forms of superintelligence
+| 2019 | Tesla Robotaxi network promised | Elon Musk announces plans for a Tesla robotaxi fleet, envisioning autonomous vehicles as a ride-sharing service. |  |
 
-## References and Further Reading
+| 2021 | Tesla Optimus announced | Tesla unveils Optimus (Tesla Bot) at AI Day, a humanoid robot designed for general-purpose tasks. |  |
 
-### Foundational Texts
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
-- Yudkowsky, E. (2008). "Artificial Intelligence as a Positive and Negative Factor in Global Risk." *Global Catastrophic Risks*.
-- Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+| 2022 | Tesla Optimus prototype | First working prototype of Optimus demonstrated, showing basic mobility and task performance. |  |
 
-### Technical Papers
-- Amodei, D., et al. (2016). "Concrete Problems in AI Safety." arXiv preprint arXiv:1606.06565.
-- Christiano, P., et al. (2017). "Deep reinforcement learning from human preferences." *Advances in Neural Information Processing Systems*.
-- Irving, G., Christiano, P., & Amodei, D. (2018). "AI safety via debate." arXiv preprint arXiv:1805.00899.
+| 2022 | ChatGPT released | OpenAI launches ChatGPT, popularizing generative AI and accelerating public adoption. |  |
 
-### Research Organizations
-- **Future of Humanity Institute** (Oxford University) - Long-term impact of AI
-- **Machine Intelligence Research Institute** - AI alignment research  
-- **Center for AI Safety** - Technical AI safety research
-- **Anthropic** - AI safety and beneficial AI development
-- **OpenAI** - Safe AGI development and deployment
+| 2024 | Tesla Cybercab reveal | Tesla unveils the Cybercab, a purpose-built robotaxi without steering wheel, as part of its autonomous fleet plans. |  |
 
-### Monitoring Resources
-- **AI Index Report** (Stanford HAI) - Annual comprehensive AI progress metrics
-- **State of AI Report** - Industry and research progress tracking
-- **Metaculus** - Crowd-sourced predictions on AI milestones
-- **AI Impacts** - Research on AI timeline predictions and implications
+| 2024 | Optimus significant advancements | Tesla demonstrates improved Optimus capabilities, including better dexterity and AI integration. |  |
 
----
+| 2025 | Tesla Robotaxi launch in Austin | Initial rollout of Tesla Robotaxi service begins in Austin, Texas, starting with a small fleet and expanding rapidly. (As of September 2025, this has occurred with initial scaling.) |  |
 
-*Note: These milestones represent informed speculation based on current research trends and expert opinions. Actual development may follow different pathways, timelines, and present unforeseen challenges or opportunities.*
+| 2025 | Tesla Optimus production ramp-up | Tesla produces several thousand Optimus units, with demonstrations of mass production and deployment in factories. |  |
+
+| 2029 | Artificial General Intelligence (AGI) achieved (Prediction) | AI reaches human-level intelligence across all domains, enabling rapid self-improvement toward superintelligence; Kurzweil's key milestone updated in *The Singularity is Nearer*. |  |
+
+| 2030s | Nanobots and brain-cloud interfaces (Prediction) | Widespread use of nanobots for health and cognition, connecting human brains to the cloud for expanded intelligence; from Kurzweil's exponential growth forecasts. |  |
+
+| 2045 | The Singularity (Prediction) | Humans merge with AI, achieving immortality and millionfold intelligence expansion via cybernetic enhancements; civilization transcends biological limits, as predicted in *The Singularity is Nearer*. |  |
+
+This table focuses on yearly granularity, combining historical facts with future predictions. Future milestones are speculative and based on Kurzweil's updates (e.g., holding to 2029 AGI despite debates). Tesla elements highlight robotics and autonomy as steps toward AI transcendence. If you provide more details on the original timeline or clarify the GitHub content, I can refine this further.
