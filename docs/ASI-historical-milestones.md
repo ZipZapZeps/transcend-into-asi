@@ -1,22 +1,6 @@
-# Key Milestones for Transcending into Artificial Superintelligence (ASI)
+# Key Historical Milestones for Transcending into Artificial Superintelligence (ASI)
 
-This section outlines critical technological, safety, and societal milestones that may mark humanity's path toward developing and safely transcending into Artificial Superintelligence. These tables focus on yearly granularity, combining historical facts with future predictions. Future milestones are speculative.
-
-## Predictions 
-| Year | Milestone | Description | References |
-|------|-----------|-------------|------------|
-| 2050-2060 | Post-human civilization emergence | Complete merger of human and artificial intelligence creates new forms of consciousness; biological humans become extinct or transformed beyond recognition. | [The Singularity is Near: When Humans Transcend Biology - Ray Kurzweil](https://www.kurzweilai.net/the-singularity-is-near) |
-| 2045-2050 | ASI recursive self-improvement | Artificial Superintelligence begins exponential self-modification, improving its own architecture and capabilities at unprecedented rates, potentially leading to intelligence explosion. | [Intelligence Explosion Microeconomics - Eliezer Yudkowsky](https://intelligence.org/files/IEM.pdf) |
-| 2045 | The Singularity | Humans merge with AI, achieving immortality and millionfold intelligence expansion via cybernetic enhancements; civilization transcends biological limits, as predicted in *The Singularity is Nearer*. | [A Scientist Says Humans Will Reach the Singularity Within 20 Years](https://www.popularmechanics.com/science/a65253231/2045-singularity-ray-kurzweil-prediction/) |
-| 2040-2045 | Artificial Superintelligence (ASI) achieved | AI systems surpass human intelligence in all domains by orders of magnitude, capable of solving problems beyond human comprehension and redesigning themselves. | [Superintelligence: Paths, Dangers, Strategies - Nick Bostrom](https://www.fhi.ox.ac.uk/wp-content/uploads/Superintelligence_1.pdf) |
-| 2035-2040 | Molecular assemblers and programmable matter | Nanotechnology enables precise molecular manufacturing and programmable matter, allowing rapid construction of any desired structure or device. | [Engines of Creation - K. Eric Drexler](https://www.foresight.org/EOC/index.html) |
-| 2032-2038 | AI safety alignment solved | Successful development and implementation of value alignment systems ensuring advanced AI remains beneficial and controllable as it approaches superintelligence. | [AI Alignment Problem - Machine Intelligence Research Institute](https://intelligence.org/2016/12/28/ai-alignment-problem/) |
-| 2030-2035 | Brain-computer interface mass adoption | Neural interfaces become mainstream, allowing direct thought-to-digital communication and cognitive enhancement for millions of users. | [Neuralink and the Brain's Magical Future - Tim Urban](https://waitbutwhy.com/2017/04/neuralink.html) |
-| 2030s | Nanobots and brain-cloud interfaces | Widespread use of nanobots for health and cognition, connecting human brains to the cloud for expanded intelligence; from Kurzweil's exponential growth forecasts. | [A Scientist Says Humans Will Reach the Singularity Within 20 Years](https://www.popularmechanics.com/science/a65253231/2045-singularity-ray-kurzweil-prediction/) |
-| 2029-2032 | AI agent economy emergence | Autonomous AI agents begin independently conducting business, creating contracts, and managing resources, fundamentally restructuring the global economy. | [Economic Implications of AI - Future of Humanity Institute](https://www.fhi.ox.ac.uk/wp-content/uploads/economic-implications-of-ai.pdf) |
-| 2029 | Artificial General Intelligence (AGI) achieved | AI reaches human-level intelligence across all domains, enabling rapid self-improvement toward superintelligence; Kurzweil's key milestone updated in *The Singularity is Nearer*. | [Ray Kurzweil's New Book: The Singularity is Nearer (when we merge with AI)](https://edrm.net/2024/07/ray-kurzweils-new-book-the-singularity-is-nearer-when-we-merge-with-ai/) |
-| 2027-2030 | Longevity escape velocity | Medical AI and nanotechnology enable radical life extension, with aging effectively reversed and death from aging eliminated for those with access. | [Ending Aging - Aubrey de Grey](https://www.sens.org/ending-aging/) |
-| 2026-2028 | Quantum-classical hybrid AI systems | Integration of quantum computing with classical AI architectures creates new paradigms for problem-solving and pattern recognition at unprecedented scales. | [Quantum Machine Learning - Nature](https://www.nature.com/articles/nature23474) |
+This section outlines critical technological, safety, and societal milestones that may mark humanity's path toward developing and safely transcending into Artificial Superintelligence. These tables focus on yearly granularity, collecting historical facts.
 
 ## Historical Events 
 | Year | Milestone | Description | References |
