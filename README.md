@@ -28,7 +28,8 @@ In-depth explorations of AI's civilizational impacts, organized by category:
 - [Existential and Long-Term Impacts](docs/Existential-longterm.md): Singularity, post-human future.
 - [Environmental and Resource Impacts](docs/Environmental-resource.md): Sustainability, resource demands.
 - [Security and Conflict](docs/Security-conflict.md): AI arms races, cybersecurity risks.
-- [Milestones](docs/ASI_milestones.md): Potential Milestones, which lead civilization to artifical super Intelligence.
+- [Future Milestones](docs/ASI-future-milestones.md): Future Milestones, which lead civilization to artifical super Intelligence.
+- [Historical Milestones](docs/ASI-historical-milestones.md): Historical Milestones of artifical super intelligence.
 
 ## Resources
 Curated lists of external resources:
