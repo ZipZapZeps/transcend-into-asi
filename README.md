@@ -10,6 +10,7 @@ A curated repository dedicated to understanding how humanity can transcend into 
 - **Curate Resources**: Gather books, papers, articles, and other materials on AI's potential to reshape civilization.
 - **Foster Discussion**: Provide summaries and prompts to spark debate on AI's implications.
 - **Encourage Collaboration**: Build a community-driven collection through open contributions.
+- **Provide benefit to humanity**: Identify risks and mitigation strategies.
 
 ## Table of Contents
 - [Docs](#docs)
