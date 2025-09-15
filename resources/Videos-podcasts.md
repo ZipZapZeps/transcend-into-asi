@@ -4,16 +4,14 @@ This file curates videos and podcasts exploring the concept of "transcending int
 
 ## Resources
 
-| Title | Host(s)/Creator(s) | Link | Summary | Relevant Categories |
-|-------|--------------------|------|---------|--------------------|
-| The Cognitive Revolution: AI Builders, Researchers, and Live Player Analysis | Nathan Labenz, Erik Torenberg | [Apple Podcasts](https://podcasts.apple.com/kz/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431) | A biweekly podcast interviewing AI innovators, discussing advancements like self-replicating programs, AGI timelines, and governance challenges. Episodes explore the transformative potential of AI across society. | Technological, Existential, Governance |
-| AI Transformation | Miguel Machado | [Apple Podcasts](https://podcasts.apple.com/us/podcast/ai-transformation/id1780298318) | A fortnightly podcast focusing on AI adoption strategies, cultural shifts, and practical applications in industries like marketing and healthcare. Discusses overcoming resistance and ethical implementation. | Economic, Social, Ethical |
-| AI Insights | Fleur Prince, Grainne Poppen | [Apple Podcasts](https://podcasts.apple.com/us/podcast/ai-insights/id1770103476) | Weekly tech news podcast covering AI evolution, ethical implications, and societal impacts like deepfakes and data protection. Includes discussions on AGI and human-AI collaboration. | Ethical, Social, Technological |
-| The Anthropic AI Daily Brief | PodcastAI | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-anthropic-ai-daily-brief/id1784290225) | Daily updates on Anthropic’s AI advancements, including models like Claude and their societal implications, with focus on safety, scalability, and real-world applications. | Technological, Governance, Ethical |
-| Rusty’s World: AI, Spirituality & The Future of Humanity (Ep. #18, Part 2) | Brian Fankhauser | [Podcast Collaborative](https://thepodcastcollaborative.com)2 | Explores AI’s impact on creativity, trust, and identity, questioning the role of machines in shaping human thought and societalવ
-
-System: decision-making. | Social, Ethical, Philosophical |
-| The Evolution and Impact of Artificial Intelligence | Dr. Jason Cavich | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-evolution-and-impact-of-artificial-intelligence/id1750038136) | Discusses AI’s history from early chess machines to modern ChatGPT, emphasizing ethical implications, human biases, and lifelong learning needs. | Technological, Ethical, Social |
+| Title | Summary | Categories | Link |
+|-------|---------|------------|------|
+| The Cognitive Revolution: AI Builders, Researchers, and Live Player Analysis | A biweekly podcast interviewing AI innovators, discussing advancements like self-replicating programs, AGI timelines, and governance challenges. Episodes explore the transformative potential of AI across society. | Technological, Existential, Governance | [Apple Podcasts](https://podcasts.apple.com/kz/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431) |
+| AI Transformation | A fortnightly podcast focusing on AI adoption strategies, cultural shifts, and practical applications in industries like marketing and healthcare. Discusses overcoming resistance and ethical implementation. | Economic, Social, Ethical | [Apple Podcasts](https://podcasts.apple.com/us/podcast/ai-transformation/id1780298318) |
+| AI Insights | Weekly tech news podcast covering AI evolution, ethical implications, and societal impacts like deepfakes and data protection. Includes discussions on AGI and human-AI collaboration. | Ethical, Social, Technological | [Apple Podcasts](https://podcasts.apple.com/us/podcast/ai-insights/id1770103476) |
+| The Anthropic AI Daily Brief | Daily updates on Anthropic’s AI advancements, including models like Claude and their societal implications, with focus on safety, scalability, and real-world applications. | Technological, Governance, Ethical | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-anthropic-ai-daily-brief/id1784290225) |
+| Rusty’s World: AI, Spirituality & The Future of Humanity (Ep. #18, Part 2) | Explores AI’s impact on creativity, trust, and identity, questioning the role of machines in shaping human thought and societal decision-making. | Social, Ethical, Philosophical | [Podcast Collaborative](https://thepodcastcollaborative.com)2 |
+| The Evolution and Impact of Artificial Intelligence | Discusses AI’s history from early chess machines to modern ChatGPT, emphasizing ethical implications, human biases, and lifelong learning needs. | Technological, Ethical, Social | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-evolution-and-impact-of-artificial-intelligence/id1750038136) |
 
 ## Contribution Notes
 - **Add a Resource**: Use the [Issue Template](../contrib/issue_template.md) to suggest new videos or podcasts.
