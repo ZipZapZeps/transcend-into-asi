@@ -15,7 +15,7 @@ input_dir = "resources"
 output_file = os.path.join(input_dir, "Resources.md")
 
 # Headers to extract
-headers = ["Title", "Summary", "Links"]
+headers = ["Title", "Summary", "Categories","Link"]
 
 def parse_markdown_table(file_path):
     """Parse a markdown table from a file and return a DataFrame."""
@@ -23,37 +23,34 @@ def parse_markdown_table(file_path):
         content = f.read()
 
     # Find table using regex
-    table_pattern = r'\|.*?\|\n\|[-:\s\|]*\|\n(.*?)(?=\n\n|\Z)'  # Match table until double newline or end
-    table_match = re.search(table_pattern, content, re.DOTALL)
-    
-    if not table_match:
+    # Extrahiere alle Zeilen, die mit '|' beginnen (Tabellenzeilen)
+    lines = [line for line in content.split('\n') if line.strip().startswith('|')]
+    if len(lines) < 2:
         return pd.DataFrame(columns=headers)
 
-    table_content = table_match.group(1).strip().split('\n')
-    
-    # Get headers from the table
-    table_headers = [h.strip() for h in table_content[0].split('|')[1:-1]]
-    
-    # Filter only relevant headers
+    # Header ist die erste Zeile, Trennzeile die zweite
+    table_headers = [h.strip() for h in lines[0].split('|')[1:-1]]
     valid_headers = [h for h in table_headers if h in headers]
     if not valid_headers:
         return pd.DataFrame(columns=headers)
-    
-    # Create DataFrame
+
+    # Datenzeilen ab der dritten Zeile
     data = []
-    for row in table_content[1:]:
+    for row in lines[2:]:
         cols = [c.strip() for c in row.split('|')[1:-1]]
-        row_data = {table_headers[i]: cols[i] for i in range(len(cols)) if table_headers[i] in headers}
-        data.append(row_data)
-    
-    df = pd.DataFrame(data, columns=valid_headers)
-    
-    # Ensure all required headers are present
-    for header in headers:
-        if header not in df.columns:
-            df[header] = ""
-    
-    return df[headers]
+        if len(cols) == len(table_headers):
+            # Fülle alle Ziel-Header, fehlende werden mit "" ergänzt
+            row_data = {}
+            for h in headers:
+                if h in table_headers:
+                    idx = table_headers.index(h)
+                    row_data[h] = cols[idx]
+                else:
+                    row_data[h] = ""
+            data.append(row_data)
+
+    df = pd.DataFrame(data, columns=headers)
+    return df
 
 def consolidate_tables():
     """Consolidate tables from all input files into one DataFrame."""
