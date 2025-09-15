@@ -14,14 +14,22 @@ def check_link(file_path, line_num, url):
     if parsed.scheme in ('http', 'https'):
         # Web link
         try:
+            # Define headers with a User-Agent to mimic a browser
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
+                    }            # Use HEAD for efficiency, fallback to GET if needed
             # Use HEAD for efficiency, fallback to GET if needed
-            response = requests.head(url, allow_redirects=True, timeout=10)
+            response = requests.head(url, headers=headers, allow_redirects=True, timeout=15)
             if response.status_code == 405:  # HEAD not allowed
-                response = requests.get(url, allow_redirects=True, timeout=10)
+                response = requests.get(url, headers=headers, allow_redirects=True, timeout=15)
             if response.status_code == 404:
                 print(f"{file_path}:{line_num}: Invalid link (404): {url}")
-        except requests.RequestException:
-            print(f"{file_path}:{line_num}: Invalid link (request failed): {url}")
+        except requests.Timeout:
+            print(f"{file_path}:{line_num}: Invalid link (timeout): {url}")
+        except requests.ConnectionError:
+            print(f"{file_path}:{line_num}: Invalid link (connection error): {url}")
+        except requests.RequestException as e:
+            print(f"{file_path}:{line_num}: Invalid link (request failed: {str(e)}): {url}")
     elif parsed.scheme == '' and base_url:  # Relative or absolute local path
         # Resolve relative path
         resolved_path = os.path.normpath(os.path.join(os.path.dirname(file_path), base_url))
