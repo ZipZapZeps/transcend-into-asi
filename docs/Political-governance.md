@@ -1,6 +1,6 @@
-# Political and Governance Implications of Transcending into AI
+# Political and Governance Implications of Transcending into ASI
 
-The concept of "transcending into AI" implies a deep integration of artificial intelligence into human society, potentially reshaping political structures and governance models. This document explores how AI could influence power dynamics, surveillance, regulation, and global stability, drawing on curated resources and key questions for further exploration.
+The concept of "transcending into ASI" implies a deep integration of artificial intelligence into human society, potentially reshaping political structures and governance models. This document explores how AI could influence power dynamics, surveillance, regulation, and global stability, drawing on curated resources and key questions for further exploration.
 
 ## Overview
 As AI becomes a central force in societal transformation, it could redefine political power, governance frameworks, and international relations. Key implications include:

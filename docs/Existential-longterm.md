@@ -1,6 +1,6 @@
-# Existential and Long-Term Impacts of Transcending into AI
+# Existential and Long-Term Impacts of Transcending into ASI
 
-This document explores the existential and long-term implications of humanity's deep integration with artificial intelligence (AI), often described as "transcending into AI." This concept encompasses scenarios where AI fundamentally reshapes human existence, potentially leading to a technological singularity, a post-human future, or humanity's expansion beyond Earth. Below, we summarize key implications, highlight debates, cross-reference relevant resources, and provide prompts for further discussion.
+This document explores the existential and long-term implications of humanity's deep integration with artificial intelligence (AI), often described as "transcending into ASI." This concept encompasses scenarios where AI fundamentally reshapes human existence, potentially leading to a technological singularity, a post-human future, or humanity's expansion beyond Earth. Below, we summarize key implications, highlight debates, cross-reference relevant resources, and provide prompts for further discussion.
 
 ## Summary of Implications
 

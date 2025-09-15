@@ -1,6 +1,6 @@
 # Security and Conflict Implications of Transcending into AI
 
-The deep integration of artificial intelligence (AI) into human society—potentially leading to a state where humanity "transcends" into AI through cognitive augmentation, pervasive automation, or superintelligent systems—introduces significant security and conflict-related implications. This document explores how AI could reshape global security dynamics, influence conflict, and introduce new risks, drawing on the civilizational impacts discussed earlier. It also links to relevant resources and poses questions for further exploration.
+The deep integration of artificial intelligence (AI) into human society—potentially leading to a state where humanity "transcends" into ASI through cognitive augmentation, pervasive automation, or superintelligent systems—introduces significant security and conflict-related implications. This document explores how AI could reshape global security dynamics, influence conflict, and introduce new risks, drawing on the civilizational impacts discussed earlier. It also links to relevant resources and poses questions for further exploration.
 
 ## Overview
 AI's transformative potential could amplify both cooperative and adversarial dynamics. As AI systems become more autonomous and powerful, they may redefine warfare, cybersecurity, and global stability. Key areas of concern include:
@@ -50,7 +50,8 @@ AI's transformative potential could amplify both cooperative and adversarial dyn
 - How do we balance AI's security benefits (e.g., predictive analytics) with its risks?
 
 ## Relevant Resources
-Below are curated resources related to security and conflict implications of AI. See the [resources folder](../resources/) for full lists26. **AI Singularity: Navigating Implications and Framing Strategic Recommendations** by Digital Cooperation Organization  
+Below are curated resources related to security and conflict implications of AI. See the [resources folder](../resources/) for full lists
+26. **AI Singularity: Navigating Implications and Framing Strategic Recommendations** by Digital Cooperation Organization  
    - *Link*: [PDF Source]  
    - *Summary*: Discusses strategic recommendations for managing risks of advanced AI, including security and governance challenges.  
    - *Relevance*: Outlines frameworks for mitigating risks of uncontrolled AI in conflict scenarios.  
