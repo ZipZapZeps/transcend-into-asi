@@ -39,12 +39,12 @@ The integration of AI into human society—through augmentation, pervasive autom
 - How will different cultures perceive and adopt AI transcendence, given varying values and traditions?
 
 ## Relevant Resources
-- See [resources/books.md](../resources/books.md) for *Transcend: Unlocking Humanity in the Age of AI* by Faisal Hoque, which explores AI's impact on human habits and emotions.
-- See [resources/papers.md](../resources/papers.md) for:
+- See [resources/books.md](../../resources/books.md) for *Transcend: Unlocking Humanity in the Age of AI* by Faisal Hoque, which explores AI's impact on human habits and emotions.
+- See [resources/papers.md](../../resources/papers.md) for:
   - *The Impact of Artificial Intelligence on Human Society and Bioethics*: Discusses social changes from AI.
   - *The Impact of Generative Artificial Intelligence on Socioeconomic Inequalities*: Examines inequality risks.
   - *Understanding Psychological Factors Shaping Attitudes Toward AI*: Explores public perceptions of AI.
-- See [resources/articles.md](../resources/articles.md) for:
+- See [resources/articles.md](../../resources/articles.md) for:
   - *Generative Artificial Intelligence: Toward a New Civilization?*: Discusses AI's cultural impacts.
   - *Portrayals and Perceptions of AI and Why They Matter*: Analyzes cultural attitudes toward AI.
   - *AI and Society: Implications for Global Equality and Quality of Life*: Explores social equity.
@@ -53,6 +53,6 @@ The integration of AI into human society—through augmentation, pervasive autom
 - Share examples of how AI is already influencing cultural production (e.g., AI art, music, or social media algorithms).
 - Propose policies to mitigate AI-driven social stratification or privacy loss.
 - Discuss how different cultures might approach AI integration differently (e.g., collectivist vs. individualist societies).
-- Contribute additional resources or case studies on AI's social/cultural impacts via [GitHub Issues](../contrib/Issue_template.md).
+- Contribute additional resources or case studies on AI's social/cultural impacts via [GitHub Issues](../../contrib/Issue_template.md).
 
 *Contributions welcome! Help us expand this exploration of AI's social and cultural implications.*

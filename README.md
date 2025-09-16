@@ -21,14 +21,14 @@ A curated repository dedicated to understanding how humanity can transcend into 
 ## Docs
 In-depth explorations of AI's civilizational impacts, organized by category:
 - [Definitions](docs/Definitions.md): Key terms related to transcending into AI
-- [Technological Transformations](docs/Technological.md): Human augmentation, automation, superintelligence.
-- [Economic Implications](docs/Economic.md): Job displacement, wealth concentration, new economies.
-- [Social and Cultural Shifts](docs/Social-cultural.md): Identity, privacy, cultural changes.
-- [Ethical and Philosophical Challenges](docs/Ethical-philosophical.md): Moral agency, value alignment.
-- [Political and Governance Issues](docs/Political-governance.md): Power dynamics, surveillance, regulation.
-- [Existential and Long-Term Impacts](docs/Existential-longterm.md): Singularity, post-human future.
-- [Environmental and Resource Impacts](docs/Environmental-resource.md): Sustainability, resource demands.
-- [Security and Conflict](docs/Security-conflict.md): AI arms races, cybersecurity risks.
+- [Technological Transformations](docs/implications/Technological.md): Human augmentation, automation, superintelligence.
+- [Economic Implications](docs/implications/Economic.md): Job displacement, wealth concentration, new economies.
+- [Social and Cultural Shifts](docs/implications/Social-cultural.md): Identity, privacy, cultural changes.
+- [Ethical and Philosophical Challenges](docs/implications/Ethical-philosophical.md): Moral agency, value alignment.
+- [Political and Governance Issues](docs/implications/Political-governance.md): Power dynamics, surveillance, regulation.
+- [Existential and Long-Term Impacts](docs/implications/Existential-longterm.md): Singularity, post-human future.
+- [Environmental and Resource Impacts](docs/implications/Environmental-resource.md): Sustainability, resource demands.
+- [Security and Conflict](docs/implications/Security-conflict.md): AI arms races, cybersecurity risks.
 - [Future Milestones](docs/ASI-future-milestones.md): Future Milestones, which lead civilization to artifical super Intelligence.
 - [Historical Milestones](docs/ASI-historical-milestones.md): Historical Milestones of artifical super intelligence.
 
